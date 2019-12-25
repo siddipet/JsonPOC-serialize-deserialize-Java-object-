@@ -1,0 +1,34 @@
+{
+  "fName": "praveen",
+  "lName": "reddy",
+  "title": "Mr",
+  "mobnum": "9701809976",
+  "emailid": "praveen.reddy2938@gmail.com",
+  "address": "Hyderabad",
+  "account": {
+    "balance": 1000,
+    "cardNum": "05211140058765",
+    "cvv": 784,
+    "nameOnCard": "Gurram Praveen"
+  },
+  "order": [
+    {
+      "oid": "1111",
+      "name": "mobile",
+      "desc": "good",
+      "delivered": true
+    },
+    {
+      "oid": "2222",
+      "name": "watch",
+      "desc": "Not bad",
+      "delivered": true
+    },
+    {
+      "oid": "3333",
+      "name": "Laptop",
+      "desc": "AVG",
+      "delivered": true
+    }
+  ]
+}
