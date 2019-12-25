@@ -1,6 +1,6 @@
 package com.sreenutech;
 
-//This account class
+//To test git remote repository 
 public class Account {
 
 	private double balance;
